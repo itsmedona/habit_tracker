@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:habit_track/HomePage.dart';
+import 'package:habit_track/view/HomePage.dart';
 import 'package:lottie/lottie.dart';
 
 class SplashScreen extends StatefulWidget {
